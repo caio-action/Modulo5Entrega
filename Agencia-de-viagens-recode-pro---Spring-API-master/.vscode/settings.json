@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "jdbc:mysql://localhost/agviagem_apispring",
+            "port": 3306,
+            "driver": "MariaDB",
+            "name": "com.mysql.cj.jdbc.Driver",
+            "username": "root",
+            "password": "root",
+            "database": "com.mysql.cj.jdbc.Driver"
+        }
+    ]
+}
